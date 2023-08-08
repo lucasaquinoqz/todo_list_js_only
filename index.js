@@ -1,2 +1,3 @@
-// "first commit"
-// "first commit"
+function teste() {
+    console.log("teste")
+}
